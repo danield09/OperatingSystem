@@ -6,3 +6,4 @@
   - `OS`
   - `Kernel`
   - `Scheduler`   
+  - The other files are used to help these 3 main files.
